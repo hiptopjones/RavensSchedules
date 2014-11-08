@@ -35,6 +35,7 @@
     <None Include="App.config" />
     <None Include="GenerateSchedules.bat" />
     <None Include="Ravens Weekly Schedule - 20141103.csv" />
+    <None Include="RavensMasterSchedule-2014.csv" />
     <None Include="RavensWeeklySchedule-20141110.csv" />
     <None Include="RavensWeeklySchedule-20141117.csv" />
     <None Include="RavensWeeklySchedule-20141124.csv" />
