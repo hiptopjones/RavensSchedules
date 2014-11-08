@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{29822FC3-734A-49B0-9BC6-A974AE616E0F}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Schedules</RootNamespace>
     <AssemblyName>Schedules</AssemblyName>
@@ -31,8 +31,14 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Games\2014-2015 Female Regular Season Schedule Preview.csv" />
+    <None Include="Games\JuvenileUpdate.csv" />
+    <None Include="Games\PCAHA_Tiering_20141001.csv" />
     <None Include="Master\RavensMasterSchedule-2014-2015.xls" />
     <None Include="Scripts\GenerateSchedules.bat" />
     <None Include="Master\RavensMasterSchedule-2014-2015.csv" />
