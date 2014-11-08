@@ -35,6 +35,15 @@
     <None Include="App.config" />
     <None Include="Scripts\GenerateSchedules.bat" />
     <None Include="Master\RavensMasterSchedule-2014.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20140901.xls" />
+    <None Include="Weekly\RavensWeeklySchedule-20140908.xls" />
+    <None Include="Weekly\RavensWeeklySchedule-20140915.xls" />
+    <None Include="Weekly\RavensWeeklySchedule-20140922.xls" />
+    <None Include="Weekly\RavensWeeklySchedule-20140929.xls" />
+    <None Include="Weekly\RavensWeeklySchedule-20141006.xls" />
+    <None Include="Weekly\RavensWeeklySchedule-20141013.xls" />
+    <None Include="Weekly\RavensWeeklySchedule-20141020.xls" />
+    <None Include="Weekly\RavensWeeklySchedule-20141027.xls" />
     <None Include="Weekly\RavensWeeklySchedule-20141103.csv" />
     <None Include="Weekly\RavensWeeklySchedule-20141110.csv" />
     <None Include="Weekly\RavensWeeklySchedule-20141117.csv" />
