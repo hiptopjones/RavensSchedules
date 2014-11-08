@@ -33,8 +33,9 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Master\RavensMasterSchedule-2014-2015.xls" />
     <None Include="Scripts\GenerateSchedules.bat" />
-    <None Include="Master\RavensMasterSchedule-2014.csv" />
+    <None Include="Master\RavensMasterSchedule-2014-2015.csv" />
     <None Include="Weekly\RavensWeeklySchedule-20140901.xls" />
     <None Include="Weekly\RavensWeeklySchedule-20140908.xls" />
     <None Include="Weekly\RavensWeeklySchedule-20140915.xls" />
