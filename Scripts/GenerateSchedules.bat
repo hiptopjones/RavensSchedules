@@ -2,7 +2,7 @@
 setlocal
 
 set TOOL_PATH=V:\other\hobby\windows\IceScheduler\ScheduleTool\bin\Debug
-set MASTER_INPUT_PATH=V:\other\Ravens\2014_2015\IceAllocation\Masters\Master.csv
+set MASTER_INPUT_PATH=V:\other\Ravens\2014_2015\IceAllocation\Schedules\Schedules.csv
 set WEEKLY_OUTPUT_DIR=V:\other\Ravens\2014_2015\IceAllocation\Schedules\Schedules
 
 %TOOL_PATH%\ScheduleTool.exe -r flat -i "%MASTER_INPUT_PATH%" -w flat -o "%WEEKLY_OUTPUT_DIR%\RavensWeeklySchedule-20141110.csv" -p rebase -a 11/10/14
