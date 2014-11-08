@@ -33,7 +33,14 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="GenerateSchedules.bat" />
     <None Include="Ravens Weekly Schedule - 20141103.csv" />
+    <None Include="RavensWeeklySchedule-20141110.csv" />
+    <None Include="RavensWeeklySchedule-20141117.csv" />
+    <None Include="RavensWeeklySchedule-20141124.csv" />
+    <None Include="RavensWeeklySchedule-20141201.csv" />
+    <None Include="RavensWeeklySchedule-20141208.csv" />
+    <None Include="RavensWeeklySchedule-20141215.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
