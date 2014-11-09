@@ -2,8 +2,8 @@ Monday,11/10/2014,3:30 PM,4:30 PM,Gardens,TeamSkills,Accelerator,Bantam A1
 Monday,11/10/2014,4:45 PM,5:45 PM,Gardens,Practice,Peewee A2
 Monday,11/10/2014,5:00 PM,6:00 PM,OvalNorth,Practice,Atom C3
 Monday,11/10/2014,5:30 PM,6:45 PM,Igloo,Practice,Peewee A1
-Monday,11/10/2014,7:45 PM,9:00 PM,Pond,Game,Tiering,RichmondGirls Midget C2,VancouverGirls Bantam C2
-Monday,11/10/2014,7:45 PM,9:00 PM,OvalSouth,Game,Tiering,RichmondGirls Juvenile C1,VancouverGirls Bantam C2
+Monday,11/10/2014,7:45 PM,9:00 PM,Pond,Game,Tiering,RichmondGirls Midget A1,AbbotsfordFemale Midget A1
+Monday,11/10/2014,7:45 PM,9:00 PM,OvalSouth,Practice,Juvenile C1
 Tuesday,11/11/2014,6:00 AM,7:15 AM,Garage,Practice,Peewee A2
 Tuesday,11/11/2014,4:30 PM,5:30 PM,Igloo,Practice,Novice C1
 Tuesday,11/11/2014,4:45 PM,5:45 PM,Pond,Practice,TC1/TC2
@@ -11,35 +11,45 @@ Tuesday,11/11/2014,5:45 PM,6:45 PM,Igloo,Practice,Novice C2
 Tuesday,11/11/2014,6:00 PM,7:15 PM,Pond,TeamSkills,Development,BA1/MA1
 Wednesday,11/12/2014,6:00 AM,7:15 AM,Stadium,Practice,Atom C1
 Wednesday,11/12/2014,3:30 PM,4:30 PM,Pond,TeamSkills,Accelerator,PA1/PA2
-Wednesday,11/12/2014,4:45 PM,5:45 PM,Pond,TeamSkills,AC1/AC2/AC3
-Wednesday,11/12/2014,5:00 PM,6:15 PM,Coliseum,TeamSkills,MC1/MC2/BC1
+Wednesday,11/12/2014,4:45 PM,5:45 PM,Pond,TeamSkills,Development,AC1/AC2/AC3
+Wednesday,11/12/2014,5:00 PM,6:15 PM,Coliseum,TeamSkills,Development,MC1/MC2/BC1
 Wednesday,11/12/2014,6:00 PM,7:15 PM,Pond,Practice,Bantam A1
-Wednesday,11/12/2014,6:30 PM,7:45 PM,Coliseum,Available
+Wednesday,11/12/2014,6:00 PM,7:15 PM,Cloverdale,Game,Tiering,SurreyFemale Peewee A1,RichmondGirls Peewee A1
+Wednesday,11/12/2014,6:30 PM,7:45 PM,Coliseum,Game,Tiering,RichmondGirls Peewee C1,NorthShoreFemale Peewee C2
 Thursday,11/13/2014,6:00 AM,7:15 AM,Silver,Practice,Peewee A1
 Thursday,11/13/2014,5:45 PM,7:00 PM,Pond,Practice,Bantam C1
-Thursday,11/13/2014,6:30 PM,8:00 PM,Garage,Game,Tiering,RichmondGirls Midget C1,VancouverGirls Bantam C2
+Thursday,11/13/2014,6:30 PM,8:00 PM,Garage,Game,Tiering,RichmondGirls Midget C1,AbbotsfordFemale Midget C1
+Thursday,11/13/2014,6:15 PM,7:30 PM,HarryJerome,Game,Tiering,NorthShoreFemale Atom C1,RichmondGirls Atom C1
+Thursday,11/13/2014,8:00 PM,9:15 PM,Tilbury,Game,Tiering,SouthDeltaFemale Bantam C1,RichmondGirls Bantam C1
 Friday,11/14/2014,6:00 AM,7:15 AM,Coliseum,Practice,Bantam A1
 Friday,11/14/2014,4:45 PM,6:00 PM,Igloo,Practice,Peewee C1
-Friday,11/14/2014,6:15 PM,7:30 PM,Igloo,Game,Tiering,RichmondGirls Atom C1,VancouverGirls Bantam C2
-Friday,11/14/2014,7:45 PM,9:15 PM,Igloo,Game,Tiering,RichmondGirls Bantam C2,VancouverGirls Bantam C2
-Friday,11/14/2014,8:30 PM,10:00 PM,Silver,Game,Tiering,RichmondGirls Midget A1,VancouverGirls Bantam C2
+Friday,11/14/2014,6:15 PM,7:30 PM,Igloo,Practice,Atom C1
+Friday,11/14/2014,7:30 PM,8:45 PM,IceSportsNorthShoreBlue,Game,Tiering,NorthShoreFemale Bantam A1,RichmondGirls Bantam A1
+Friday,11/14/2014,7:45 PM,9:15 PM,Igloo,Game,Tiering,RichmondGirls Bantam C2,LangleyGirls Bantam C1
+Friday,11/14/2014,8:30 PM,10:00 PM,Silver,Game,Tiering,RichmondGirls Midget A1,AbbotsfordFemale Midget A1
 Saturday,11/15/2014,7:00 AM,8:00 AM,Stadium,Available
-Saturday,11/15/2014,7:30 AM,8:30 AM,Pond,Available
+Saturday,11/15/2014,7:30 AM,8:30 AM,Pond,Practice,Midget C2
 Saturday,11/15/2014,8:15 AM,9:15 AM,Stadium,Practice,NC1/NC2
 Saturday,11/15/2014,8:15 AM,9:30 AM,Coliseum,Practice,Atom C2
 Saturday,11/15/2014,8:45 AM,9:45 AM,Silver,OtherSkills,Goalies
 Saturday,11/15/2014,9:30 AM,10:30 AM,Stadium,Practice,TC1/TC2
-Saturday,11/15/2014,11:45 AM,1:00 PM,Pond,Game,Tiering,RichmondGirls Atom C3,VancouverGirls Bantam C2
+Saturday,11/15/2014,11:00 AM,12:15 PM,IceSportsNorthShoreRed,Game,Tiering,NorthShoreFemale Peewee A1,RichmondGirls Peewee A2
+Saturday,11/15/2014,11:45 AM,1:00 PM,Pond,Game,Tiering,RichmondGirls Atom C3,MeadowRidgeFemale Atom C2
 Saturday,11/15/2014,4:15 PM,5:30 PM,Igloo,Practice,Bantam C2
-Saturday,11/15/2014,5:45 PM,7:00 PM,Igloo,Game,Tiering,RichmondGirls Bantam C1,VancouverGirls Bantam C2
+Saturday,11/15/2014,5:00 PM,6:30 PM,BellinghamSportsplex,Game,Tiering,WesternWashingtonFemale Midget A1,RichmondGirls Midget A1
+Saturday,11/15/2014,5:45 PM,7:00 PM,Igloo,Game,Tiering,RichmondGirls Bantam C1,SurreyFemale Bantam C1
+Saturday,11/15/2014,5:45 PM,7:00 PM,AbbotsfordMRC,Game,Tiering,AbbotsfordFemale Bantam C1,RichmondGirls Bantam C2
+Saturday,11/15/2014,8:45 PM,10:00 PM,CoquitlamMain,Game,Tiering,TriCitiesFemale Midget C1,RichmondGirls Midget C1
 Sunday,11/16/2014,6:30 AM,7:30 AM,Igloo,Available
-Sunday,11/16/2014,7:45 AM,9:00 AM,Igloo,Available
+Sunday,11/16/2014,7:45 AM,9:00 AM,Igloo,Practice,Midget C1
 Sunday,11/16/2014,8:15 AM,9:15 AM,OvalSouth,Practice,Atom C1
-Sunday,11/16/2014,9:15 AM,10:15 AM,Igloo,Game,Tiering,RichmondGirls Novice C1,VancouverGirls Bantam C2
-Sunday,11/16/2014,9:30 AM,10:45 AM,OvalSouth,Game,Tiering,RichmondGirls Tyke C1,VancouverGirls Bantam C2
-Sunday,11/16/2014,1:30 PM,3:00 PM,Coliseum,Game,Tiering,RichmondGirls Peewee A1,VancouverGirls Bantam C2
-Sunday,11/16/2014,3:15 PM,4:45 PM,Coliseum,Game,Tiering,RichmondGirls Bantam A1,VancouverGirls Bantam C2
-Sunday,11/16/2014,4:00 PM,5:30 PM,Forum,Game,Tiering,RichmondGirls Peewee A2,VancouverGirls Bantam C2
-Sunday,11/16/2014,5:45 PM,7:00 PM,Forum,Game,Tiering,RichmondGirls Atom C2,VancouverGirls Bantam C2
-Sunday,11/16/2014,5:45 PM,7:00 PM,Igloo,Game,Tiering,RichmondGirls Peewee C1,VancouverGirls Bantam C2
+Sunday,11/16/2014,9:15 AM,10:15 AM,Igloo,Game,Tiering,RichmondGirls Novice C2,SurreyFemale Novice C1
+Sunday,11/16/2014,9:30 AM,10:45 AM,OvalSouth,Practice,TC1/TC2
+Sunday,11/16/2014,9:45 AM,11:15 AM,BellinghamSportsplex,Game,Tiering,WesternWashingtonFemale Midget C1,RichmondGirls Midget C2
+Sunday,11/16/2014,1:30 PM,3:00 PM,Coliseum,Game,Tiering,RichmondGirls Peewee A1,VancouverGirls Peewee A1
+Sunday,11/16/2014,3:15 PM,4:45 PM,Coliseum,Game,Tiering,RichmondGirls Bantam A1,AbbotsfordFemale Bantam A1
+Sunday,11/16/2014,4:00 PM,5:15 PM,Hillcrest,Game,Tiering,VancouverGirls Novice C1,RichmondGirls Novice C1
+Sunday,11/16/2014,4:00 PM,5:30 PM,Forum,Game,Tiering,RichmondGirls Peewee A2,SurreyFemale Peewee A1
+Sunday,11/16/2014,5:45 PM,7:00 PM,Forum,Game,Tiering,RichmondGirls Atom C2,MeadowRidgeFemale Atom C1
+Sunday,11/16/2014,5:45 PM,7:00 PM,Igloo,Game,Tiering,RichmondGirls Peewee C1,LangleyGirls Peewee C2
 Sunday,11/16/2014,6:30 PM,7:45 PM,Silver,Practice,Midget A1
