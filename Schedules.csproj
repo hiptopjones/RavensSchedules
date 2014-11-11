@@ -59,6 +59,7 @@
     <None Include="Weekly\RavensWeeklySchedule-20141124.csv" />
     <None Include="Weekly\RavensWeeklySchedule-20141201.csv" />
     <None Include="Weekly\RavensWeeklySchedule-20141208.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20141222.csv" />
     <None Include="Weekly\RavensWeeklySchedule-20141215.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
