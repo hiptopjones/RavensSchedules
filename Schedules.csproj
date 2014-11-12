@@ -37,8 +37,10 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Games\2014-2015 Female Regular Season Schedule Preview.csv" />
+    <None Include="Games\RavensLeagueGames-HomeConflicts-November2014.csv" />
     <None Include="Games\JuvenileUpdate.csv" />
     <None Include="Games\PCAHA_Tiering_20141001.csv" />
+    <None Include="Games\RavensLeagueGames-November2014.csv" />
     <None Include="Master\RavensMasterSchedule-2014-2015.xls" />
     <None Include="Scripts\GenerateHtmlGameSchedules.bat" />
     <None Include="Scripts\SplitGameSchedule.bat" />
