@@ -2,8 +2,9 @@ Monday,12/15/2014,3:30 PM,4:30 PM,Gardens,TeamSkills,Accelerator,Bantam A1
 Monday,12/15/2014,4:45 PM,5:45 PM,Gardens,Practice,Peewee A2
 Monday,12/15/2014,5:00 PM,6:00 PM,OvalNorth,Practice,Atom C3
 Monday,12/15/2014,5:30 PM,6:45 PM,Igloo,Practice,Peewee A1
-Monday,12/15/2014,7:45 PM,9:00 PM,Pond,Game,League,RichmondGirls Midget C2,VancouverGirls Tyke C9
-Monday,12/15/2014,7:45 PM,9:00 PM,OvalSouth,Game,League,RichmondGirls Juvenile C1,VancouverGirls Tyke C9
+Monday,12/15/2014,6:45 PM,8:15 PM,PlanetIceMapleRidge1,Game,League,MeadowRidgeFemale Bantam C1,RichmondGirls Bantam C1,BL9327
+Monday,12/15/2014,7:45 PM,9:00 PM,Pond,Game,League,RichmondGirls Midget C2,LangleyGirls Midget C2,ML9536
+Monday,12/15/2014,7:45 PM,9:00 PM,OvalSouth,Practice,Juvenile C1
 Tuesday,12/16/2014,6:00 AM,7:15 AM,Garage,Practice,Peewee A2
 Tuesday,12/16/2014,4:30 PM,5:30 PM,Igloo,TeamSkills,Development,PC1/BC2
 Tuesday,12/16/2014,4:45 PM,5:45 PM,Pond,Practice,TC1/TC2
@@ -17,29 +18,39 @@ Wednesday,12/17/2014,6:00 PM,7:15 PM,Pond,Practice,Bantam A1
 Wednesday,12/17/2014,6:30 PM,7:45 PM,Coliseum,Available
 Thursday,12/18/2014,6:00 AM,7:15 AM,Coliseum,Practice,Peewee A1
 Thursday,12/18/2014,5:45 PM,7:00 PM,Pond,Practice,Bantam C1
-Thursday,12/18/2014,6:30 PM,8:00 PM,Garage,Game,League,RichmondGirls Midget C1,VancouverGirls Tyke C9
+Thursday,12/18/2014,6:30 PM,8:00 PM,Garage,Game,League,RichmondGirls Midget C1,LangleyGirls Midget C1,ML9337
+Thursday,12/18/2014,6:30 PM,7:45 PM,AbbotsfordMSA,Game,League,AbbotsfordFemale Peewee C1,RichmondGirls Peewee C1,PL9537
+Thursday,12/18/2014,7:45 PM,9:00 PM,PlanetIceMapleRidge2,Game,League,MeadowRidgeFemale Midget C1,RichmondGirls Midget C2,ML9538
 Friday,12/19/2014,6:00 AM,7:15 AM,Coliseum,Practice,Bantam A1
 Friday,12/19/2014,4:45 PM,6:00 PM,Igloo,Practice,Peewee C1
 Friday,12/19/2014,6:15 PM,7:30 PM,Igloo,Game,League,RichmondGirls Atom C1,VancouverGirls Tyke C9
-Friday,12/19/2014,7:45 PM,9:15 PM,Igloo,Game,League,RichmondGirls Bantam C2,VancouverGirls Tyke C9
-Friday,12/19/2014,8:15 PM,9:30 PM,Stadium,Game,League,RichmondGirls Midget A1,VancouverGirls Tyke C9
+Friday,12/19/2014,7:45 PM,9:15 PM,Igloo,Game,League,RichmondGirls Bantam A1,SurreyFemale Bantam A1,BL9029
+Friday,12/19/2014,8:30 PM,10:00 PM,BurnabyLake,Game,League,BurnabyFemale Bantam C1,RichmondGirls Bantam C2,BL9537
+Friday,12/19/2014,8:15 PM,9:30 PM,Stadium,Game,League,RichmondGirls Midget A1,VancouverGirls Midget A1,ML9038
 Saturday,12/20/2014,7:00 AM,8:00 AM,Stadium,Available
 Saturday,12/20/2014,7:30 AM,8:30 AM,Pond,Available
 Saturday,12/20/2014,8:15 AM,9:15 AM,Stadium,Practice,NC1/NC2
 Saturday,12/20/2014,8:15 AM,9:30 AM,Coliseum,Practice,Atom C2
 Saturday,12/20/2014,8:45 AM,9:45 AM,Silver,OtherSkills,Goalies
 Saturday,12/20/2014,9:30 AM,10:30 AM,Stadium,Practice,TC1/TC2
-Saturday,12/20/2014,11:45 AM,1:00 PM,Pond,Game,League,RichmondGirls Atom C3,VancouverGirls Tyke C9
+Saturday,12/20/2014,10:00 AM,11:15 AM,Killarney,Game,League,VancouverGirls Bantam A1,RichmondGirls Bantam A1,BL9028
+Saturday,12/20/2014,11:30 AM,12:45 PM,Killarney,Game,League,VancouverGirls Midget C1,RichmondGirls Midget C1,ML9339
+Saturday,12/20/2014,11:45 AM,1:00 PM,Pond,Practice,Atom C3
 Saturday,12/20/2014,4:15 PM,5:30 PM,Igloo,Practice,Bantam C2
 Saturday,12/20/2014,5:15 PM,7:30 PM,OvalNorth,SpecialEvent,TeamBC
-Saturday,12/20/2014,5:45 PM,7:00 PM,Igloo,Game,League,RichmondGirls Bantam C1,VancouverGirls Tyke C9
+Saturday,12/20/2014,5:45 PM,7:00 PM,Igloo,Practice,Bantam C1
 Sunday,12/21/2014,6:30 AM,7:30 AM,Igloo,Available
 Sunday,12/21/2014,7:45 AM,9:00 AM,Igloo,Available
 Sunday,12/21/2014,8:15 AM,10:45 AM,OvalSouth,SpecialEvent,TeamBC
-Sunday,12/21/2014,9:15 AM,10:15 AM,Igloo,Game,League,RichmondGirls Novice C1,VancouverGirls Tyke C9
-Sunday,12/21/2014,1:30 PM,3:00 PM,Coliseum,Game,League,RichmondGirls Peewee A1,VancouverGirls Tyke C9
-Sunday,12/21/2014,3:15 PM,4:45 PM,Coliseum,Game,League,RichmondGirls Bantam A1,VancouverGirls Tyke C9
-Sunday,12/21/2014,4:00 PM,5:30 PM,Forum,Game,League,RichmondGirls Peewee A2,VancouverGirls Tyke C9
-Sunday,12/21/2014,5:45 PM,7:00 PM,Forum,Game,League,RichmondGirls Atom C2,VancouverGirls Tyke C9
-Sunday,12/21/2014,5:45 PM,7:00 PM,Igloo,Game,League,RichmondGirls Peewee C1,VancouverGirls Tyke C9
+Sunday,12/21/2014,9:15 AM,10:15 AM,Igloo,Practice,Novice C1
+Sunday,12/21/2014,10:30 AM,11:45 AM,Newton,Game,League,SurreyFemale Novice C1,RichmondGirls Novice C2,NL9010
+Sunday,12/21/2014,1:00 PM,2:15 PM,IceSportsNorthShoreBlue,Game,League,NorthShoreFemale Peewee A1,RichmondGirls Peewee A1,PL9050
+Sunday,12/21/2014,1:30 PM,3:00 PM,Coliseum,Practice,Peewee A1
+Sunday,12/21/2014,3:15 PM,4:45 PM,Coliseum,Practice,Bantam A1
+Sunday,12/21/2014,4:00 PM,5:30 PM,Forum,Practice,Peewee A2
+Sunday,12/21/2014,4:45 PM,6:00 PM,AbbotsfordCentreIceBlue,Game,League,AbbotsfordFemale Peewee A1,RichmondGirls Peewee A2,PL9040
+Sunday,12/21/2014,5:15 PM,6:45 PM,WestVan,Practice,NorthShoreFemale Midget A1,RichmondGirls Midget A1,ML9041
+Sunday,12/21/2014,5:45 PM,7:00 PM,Forum,Practice,Atom C2
+Sunday,12/21/2014,5:45 PM,7:00 PM,Igloo,Practice,Peewee C1
 Sunday,12/21/2014,6:30 PM,7:45 PM,Silver,Practice,Midget A1
+
