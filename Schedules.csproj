@@ -42,6 +42,7 @@
     <None Include="Games\PCAHA_Tiering_20141001.csv" />
     <None Include="Games\RavensLeagueGames-November2014.csv" />
     <None Include="Master\RavensMasterSchedule-2014-2015.xls" />
+    <None Include="Scripts\GenerateHtmlWeeklySchedules.bat" />
     <None Include="Scripts\GenerateHtmlGameSchedules.bat" />
     <None Include="Scripts\SplitGameSchedule.bat" />
     <None Include="Scripts\CreateSchedulesFromMaster.bat" />

@@ -1,8 +1,8 @@
 ﻿
 setlocal
 
-set TOOL_PATH=V:\other\hobby\windows\IceScheduler\ScheduleTool\bin\Debug
-set GAMES_DIR=V:\other\Ravens\2014_2015\Schedules\Games
+set TOOL_PATH=Y:\other\hobby\windows\IceScheduler\ScheduleTool\bin\Debug
+set GAMES_DIR=Y:\other\Ravens\2014_2015\Schedules\Games
 set RAVENS_GAMES_PATH=%GAMES_DIR%\RavensLeagueGames-November2014.csv
 
 %TOOL_PATH%\ScheduleTool.exe -r flat -i "%RAVENS_GAMES_PATH%" -w ravens -o "%GAMES_DIR%\RavensGamesSchedule-20141110.html" -p filter -a week46-2014

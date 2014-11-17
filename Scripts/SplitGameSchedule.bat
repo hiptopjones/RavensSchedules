@@ -1,8 +1,8 @@
 ﻿
 setlocal
 
-set TOOL_PATH=V:\other\hobby\windows\IceScheduler\ScheduleTool\bin\Debug
-set GAMES_DIR=V:\other\Ravens\2014_2015\Schedules\Games
+set TOOL_PATH=Y:\other\hobby\windows\IceScheduler\ScheduleTool\bin\Debug
+set GAMES_DIR=Y:\other\Ravens\2014_2015\Schedules\Games
 set RAVENS_GAMES_PATH=%GAMES_DIR%\RavensLeagueGames-November2014.csv
 
 %TOOL_PATH%\ScheduleTool.exe -r pcaha -i "%GAMES_DIR%\2014-2015 Female Regular Season Schedule - Final.csv" -w flat -o "%RAVENS_GAMES_PATH%" -p filter -a richmond
