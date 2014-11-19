@@ -16,5 +16,3 @@ set WEEKLY_DIR=Y:\other\Ravens\2014_2015\Schedules\Weekly
 %TOOL_PATH%\ScheduleTool.exe -r flat -i "%WEEKLY_DIR%\RavensWeeklySchedule-20150112.csv" -w ravens -o "%WEEKLY_DIR%\RavensWeeklySchedule-20150112.html"
 %TOOL_PATH%\ScheduleTool.exe -r flat -i "%WEEKLY_DIR%\RavensWeeklySchedule-20150119.csv" -w ravens -o "%WEEKLY_DIR%\RavensWeeklySchedule-20150119.html"
 %TOOL_PATH%\ScheduleTool.exe -r flat -i "%WEEKLY_DIR%\RavensWeeklySchedule-20150126.csv" -w ravens -o "%WEEKLY_DIR%\RavensWeeklySchedule-20150126.html"
-%TOOL_PATH%\ScheduleTool.exe -r flat -i "%WEEKLY_DIR%\RavensWeeklySchedule-20150201.csv" -w ravens -o "%WEEKLY_DIR%\RavensWeeklySchedule-20150201.html"
-
