@@ -1,14 +1,15 @@
 Monday,1/5/2015,3:30 PM,4:30 PM,Gardens,TeamSkills,Accelerator,Bantam A1
 Monday,1/5/2015,4:45 PM,5:45 PM,Gardens,Practice,Peewee A2
 Monday,1/5/2015,5:00 PM,6:00 PM,OvalNorth,Practice,Atom C3
-Monday,1/5/2015,5:30 PM,6:45 PM,Igloo,Game,League,RichmondGirls Peewee A1,VancouverGirls Peewee A1,PL9045
-Monday,1/5/2015,7:45 PM,9:00 PM,Pond,Game,Tiering,RichmondGirls Midget C2,VancouverGirls Bantam C2,
-Monday,1/5/2015,7:45 PM,9:00 PM,OvalSouth,Game,Tiering,RichmondGirls Juvenile C1,VancouverGirls Bantam C2,
+Monday,1/5/2015,5:30 PM,6:45 PM,Forum,RichmondGirls Peewee A1,VancouverGirls Peewee A1,PL9045
+Monday,1/5/2015,7:45 PM,9:00 PM,Pond,Game,League,RichmondGirls Midget C2,SurreyFemale Midget C1,ML9544
+Monday,1/5/2015,7:45 PM,9:00 PM,OvalSouth,Practice
 Tuesday,1/6/2015,6:00 AM,7:15 AM,Garage,Practice,Peewee A2
 Tuesday,1/6/2015,4:30 PM,5:30 PM,Igloo,OtherSkills,Various
 Tuesday,1/6/2015,4:45 PM,5:45 PM,Pond,Practice,TC1/TC2
 Tuesday,1/6/2015,5:45 PM,6:45 PM,Igloo,Practice,NC1/NC2
 Tuesday,1/6/2015,6:00 PM,7:15 PM,Pond,TeamSkills,Development,BA1/MA1
+Tuesday,1/6/2015,7:45 PM,9:00 PM,Killarney,Game,League,VancouverGirls Peewee C2,RichmondGirls Peewee C1,PL9544
 Wednesday,1/7/2015,6:00 AM,7:15 AM,Stadium,Practice,Atom C1
 Wednesday,1/7/2015,3:30 PM,4:30 PM,Pond,TeamSkills,Accelerator,PA1/PA2
 Wednesday,1/7/2015,4:45 PM,5:45 PM,Pond,OtherSkills,Various
@@ -17,31 +18,26 @@ Wednesday,1/7/2015,6:00 PM,7:15 PM,Pond,Game,League,RichmondGirls Bantam A1,Vanc
 Wednesday,1/7/2015,6:30 PM,7:45 PM,Coliseum,Game,League,RichmondGirls Midget A1,SurreyFemale Midget A1,ML9052
 Thursday,1/8/2015,6:00 AM,7:15 AM,Silver,Practice,Peewee A1
 Thursday,1/8/2015,5:45 PM,7:00 PM,Pond,Practice,Bantam C1
-Thursday,1/8/2015,6:30 PM,8:00 PM,Garage,Game,Tiering,RichmondGirls Midget C1,VancouverGirls Bantam C2,
-Friday,1/9/2015,6:00 AM,7:15 AM,Coliseum,Practice,Bantam A1
-Friday,1/9/2015,4:45 PM,6:00 PM,Igloo,Practice,Peewee C1
-Friday,1/9/2015,6:15 PM,7:30 PM,Igloo,Game,Tiering,RichmondGirls Atom C1,VancouverGirls Bantam C2,
-Friday,1/9/2015,7:45 PM,9:15 PM,Igloo,Game,Tiering,RichmondGirls Bantam C2,VancouverGirls Bantam C2,
-Friday,1/9/2015,8:30 PM,10:00 PM,Silver,Game,League,RichmondGirls Midget A1,WesternWashingtonFemale Midget A1,ML9024
+Thursday,1/8/2015,6:30 PM,8:00 PM,Garage,Game,League,RichmondGirls Midget C1,NorthShoreFemale Midget C1,ML9345
+Thursday,1/8/2015,8:00 PM,9:15 PM,Tilbury,Game,League,SouthDeltaFemale Bantam C1,RichmondGirls Bantam C1,BL9331
 Saturday,1/10/2015,7:00 AM,8:00 AM,Stadium,Available
 Saturday,1/10/2015,7:30 AM,8:30 AM,Pond,Available
 Saturday,1/10/2015,8:15 AM,9:15 AM,Stadium,Practice,NC1/NC2
-Saturday,1/10/2015,8:15 AM,9:30 AM,Coliseum,Practice,Atom C2
+Saturday,1/10/2015,8:30 AM,9:45 AM,Killarney,Game,League,VancouverGirls Atom C1,RichmondGirls Atom C3,AL9543
 Saturday,1/10/2015,8:45 AM,9:45 AM,Silver,OtherSkills,Goalies
 Saturday,1/10/2015,9:30 AM,10:30 AM,Stadium,Practice,TC1/TC2
-Saturday,1/10/2015,11:45 AM,1:00 PM,Pond,Game,Tiering,RichmondGirls Atom C3,VancouverGirls Bantam C2,
-Saturday,1/10/2015,4:15 PM,5:30 PM,Igloo,Practice,Bantam C2
+Saturday,1/10/2015,4:00 PM,5:30 PM,SurreyLeisure3,Game,League,SurreyFemale Atom C1,RichmondGirls Atom C1,AL9015
 Saturday,1/10/2015,5:15 PM,6:15 PM,OvalNorth,Practice,Midget C2
-Saturday,1/10/2015,5:45 PM,7:00 PM,Igloo,Game,Tiering,RichmondGirls Bantam C1,VancouverGirls Bantam C2,
+Saturday,1/10/2015,5:45 PM,7:00 PM,AbbotsfordMRC,Game,League,AbbotsfordFemale Bantam C1,RichmondGirls Bantam C2,BL9547
 Saturday,1/10/2015,6:30 PM,7:30 PM,OvalNorth,Practice,Midget C1
+Saturday,1/10/2015,6:45 PM,8:00 PM,NorthShoreWinterClub,Game,League,NorthShoreWinterClubFemale Midget C1,RichmondGirls Midget C1,ML9346
 Sunday,1/11/2015,6:30 AM,7:30 AM,Igloo,Available
 Sunday,1/11/2015,7:45 AM,9:00 AM,Igloo,Available
 Sunday,1/11/2015,8:15 AM,9:15 AM,OvalSouth,Practice,Atom C1
-Sunday,1/11/2015,9:15 AM,10:15 AM,Igloo,Game,Tiering,RichmondGirls Novice C1,VancouverGirls Bantam C2,
-Sunday,1/11/2015,9:30 AM,10:45 AM,OvalSouth,Game,Tiering,RichmondGirls Tyke C1,VancouverGirls Bantam C2,
-Sunday,1/11/2015,1:30 PM,3:00 PM,Coliseum,Game,Tiering,RichmondGirls Peewee A1,VancouverGirls Bantam C2,
-Sunday,1/11/2015,3:15 PM,4:45 PM,Coliseum,Game,Tiering,RichmondGirls Bantam A1,VancouverGirls Bantam C2,
-Sunday,1/11/2015,4:00 PM,5:30 PM,Forum,Game,Tiering,RichmondGirls Peewee A2,VancouverGirls Bantam C2,
-Sunday,1/11/2015,5:45 PM,7:00 PM,Forum,Game,Tiering,RichmondGirls Atom C2,VancouverGirls Bantam C2,
-Sunday,1/11/2015,5:45 PM,7:00 PM,Igloo,Game,Tiering,RichmondGirls Peewee C1,VancouverGirls Bantam C2,
+Sunday,1/11/2015,9:00 AM,10:15 AM,Newton,Game,League,SurreyFemale Atom C2,RichmondGirls Atom C2,AL9327
+Sunday,1/11/2015,9:15 AM,10:30 AM,IceSportsNorthShoreRed,Game,League,NorthShoreFemale Atom C4,RichmondGirls Atom C3,AL9527
+Sunday,1/11/2015,9:30 AM,10:45 AM,OvalSouth,Practice,TC1/TC2
+Sunday,1/11/2015,9:45 AM,11:15 AM,BellinghamSportsplex,Game,League,WesternWashingtonFemale Midget C1,RichmondGirls Midget C2,ML9548
+Sunday,1/11/2015,11:30 AM,12:45 PM,IceSportsNorthShoreBlue,Game,League,NorthShoreFemale Tyke C1,RichmondGirls Tyke C2,TL9001
+Sunday,1/11/2015,5:15 PM,6:45 PM,Igloo,Practice,Peewee C1
 Sunday,1/11/2015,6:30 PM,7:45 PM,Silver,Practice,Midget A1
