@@ -36,12 +36,16 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Games\2014-2015 Female Regular Season 2nd Half Master Schedule.csv" />
     <None Include="Games\2014-2015 Female Regular Season Schedule Preview.csv" />
-    <None Include="Games\RavensConflictMatrix-PeeweeA-November2014.csv" />
+    <None Include="Games\NoviceUpdate.csv" />
+    <None Include="Games\RavensLeagueGames-HomeConflicts-January2015.csv" />
     <None Include="Games\RavensLeagueGames-HomeConflicts-November2014.csv" />
     <None Include="Games\JuvenileUpdate.csv" />
     <None Include="Games\PCAHA_Tiering_20141001.csv" />
+    <None Include="Games\RavensLeagueGames-January2015.csv" />
     <None Include="Games\RavensLeagueGames-November2014.csv" />
+    <None Include="Games\RavensLeagueGames-NoviceUpdate-January2015.csv" />
     <None Include="Master\RavensMasterSchedule-2014-2015.xls" />
     <None Include="Scripts\GenerateHtmlWeeklySchedules.bat" />
     <None Include="Scripts\GenerateHtmlGameSchedules.bat" />
