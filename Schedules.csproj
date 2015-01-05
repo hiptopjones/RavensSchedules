@@ -74,6 +74,13 @@
     <None Include="Weekly\RavensWeeklySchedule-20150112.csv" />
     <None Include="Weekly\RavensWeeklySchedule-20150119.csv" />
     <None Include="Weekly\RavensWeeklySchedule-20150126.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20150202.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20150209.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20150216.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20150223.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20150302.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20150309.csv" />
+    <None Include="Weekly\RavensWeeklySchedule-20150316.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
