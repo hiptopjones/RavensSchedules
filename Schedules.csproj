@@ -38,6 +38,7 @@
     <None Include="App.config" />
     <None Include="Games\2014-2015 Female Regular Season 2nd Half Master Schedule.csv" />
     <None Include="Games\2014-2015 Female Regular Season Schedule Preview.csv" />
+    <None Include="Games\Female League Playoff Master Midget A and Atom Schedules - 2015-01-25.csv" />
     <None Include="Games\Female League Playoff Master Schedule - 2015-01-21.csv" />
     <None Include="Games\NoviceUpdate.csv" />
     <None Include="Games\RavensLeagueGames-HomeConflicts-January2015.csv" />
